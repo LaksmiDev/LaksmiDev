@@ -1,4 +1,7 @@
-# Hola, soy Engel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7F7FD5&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Engel+%F0%9F%91%8B;Bienvenida+a+mi+perfil+de+GitHub!;Apasionada+por+la+tecnología+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=34&fontColor=ffffff" alt="header"/>
