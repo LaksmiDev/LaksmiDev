@@ -19,7 +19,7 @@
 - 👩‍🎓 Estudiante de **Ingeniería de Software**.
 - 🌍 Lima, **Perú**.
 - 🧠 Intereses: **web front-end**, **bases de datos**, **ciberseguridad** y **bienestar digital**.
-- 📚 Aprendiendo **PowerBI**, **C++**,**Node.js** y mejorando mi **inglés**.
+- 📚 Aprendiendo **PowerBI**, **C++**, **Node.js** y mejorando mi **inglés**.
 - ⚽ Me gustan los deportes y viajar durante vacaciones.
 
 ---
