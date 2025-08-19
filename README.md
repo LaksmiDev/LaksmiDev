@@ -57,7 +57,7 @@
 - Abierta a **retos de ciberseguridad** orientados a la prevención y educación digital.
 
 ### 📫 Contacto
-- ✉️ **Email: engel.gabriela.verasteguigmail.com
+- ✉️ **Email**: engel.gabriela.verasteguigmail.com
 
 ---
 
