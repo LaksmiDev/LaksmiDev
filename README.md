@@ -28,7 +28,7 @@
 
 <!-- Lenguajes y Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,php,java,python,cpp,arduino,node,mongodb,docker,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,php,java,python,cpp,arduino,node.js,mongodb,docker,postman,sqlserver,figma,vscode,visualstudio,mysql workbench" alt="Tech Stack" />
 </p>
 
 ---
