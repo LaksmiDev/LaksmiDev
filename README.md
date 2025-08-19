@@ -26,15 +26,9 @@
 
 ## 🧰 Tech Stack  
 
-## 🧰 Tech Stack  
-
 <p align="center">
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,php,java,python,arduino,cpp,mysql,mongodb,nodejs,docker,postman,intellij,netbeans,vscode,visualstudio,figma" />
-  <!-- SQL Server (manual) -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
-</p>
-
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,php,java,python,arduino,cpp,mysql,mongodb,nodejs,docker,postman,vscode,visualstudio,figma" />
 
 ---
 
