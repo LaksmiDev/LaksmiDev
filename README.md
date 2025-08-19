@@ -43,29 +43,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-> *(Coloca los enlaces reales a tus repositorios cuando los tengas)*
-
-- **Smart Guard** – Asistente virtual para **bienestar digital** y **ciberseguridad** de adolescentes. _Fase conceptual con diseño inicial_.
-- **Numerología para la Vida** – Sitio web temático con **Bootstrap**, **galería responsive** y **acordeón personalizado**.
-- **EF_VERASTEGUI_PEREZ (SQL)** – Base de datos de reservas con tablas **CLIENTE, AGENCIA, COCHERA, VEHICULO, RESERVA, DETALLE_RES**.
-
----
-
-## 📊 Estadísticas
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=engel-gabriela&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engel-gabriela&layout=compact&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=engel-gabriela&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🧪 Retos y práctica
 - 🔢 Mini-apps de **lógica y números** (inspiradas en numerología).
 - 🧩 Katas de **algoritmos** y **estructuras de datos**.
