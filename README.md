@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/engel-gabriela?tab=followers"><img src="https://img.shields.io/github/followers/engel-gabriela?label=Follow&style=for-the-badge" /></a>
+ <a href="https://github.com/LaksmiDev?tab=followers">
+  <img src="https://img.shields.io/github/followers/LaksmiDev?label=Follow&style=for-the-badge" />
+</a>
   <img src="https://komarev.com/ghpvc/?username=engel-gabriela&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Student-Software%20Engineering-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/From-Peru-ff4757?style=for-the-badge" />
