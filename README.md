@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://github.com/LaksmiDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/LaksmiDev?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/LaksmiDev?label=Follow&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LaksmiDev&style=social" />
-  <img src="https://img.shields.io/badge/Student-Software%20Engineering-6A5ACD?style=social" />
-  <img src="https://img.shields.io/badge/From-Peru-ff4757?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=engel-gabriela&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-Software%20Engineering-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Peru-ff4757?style=for-the-badge" />
 </p>
 
 > 🎯 _Objetivo_: Convertirme en desarrolladora full-stack, creando soluciones digitales útiles, seguras y accesibles.
