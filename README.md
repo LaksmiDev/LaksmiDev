@@ -1,4 +1,46 @@
-# 👋 Hola, soy Engel 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hola Soy Engel</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f3f3f3;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+    }
+
+    .wave {
+      display: inline-block;
+      animation: wave-hand 1.8s infinite;
+      transform-origin: 70% 70%; /* punto de pivote del emoji */
+    }
+
+    @keyframes wave-hand {
+      0% { transform: rotate(0deg); }
+      10% { transform: rotate(14deg); }
+      20% { transform: rotate(-8deg); }
+      30% { transform: rotate(14deg); }
+      40% { transform: rotate(-4deg); }
+      50% { transform: rotate(10deg); }
+      60% { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+</head>
+<body>
+  <h1>Hola, soy Engel <span class="wave">👋</span></h1>
+</body>
+</html>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=34&fontColor=ffffff" alt="header"/>
