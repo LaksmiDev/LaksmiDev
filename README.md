@@ -28,7 +28,7 @@
 
 <p align="center">
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,php,java,python,arduino,cpp,mysql,mongodb,nodejs,docker,postman,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,python,mysql,mongodb,nodejs,docker,postman,vscode,visualstudio,figma" />
 
 ---
 
@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" />
 </p>
