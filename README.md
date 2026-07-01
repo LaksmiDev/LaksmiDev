@@ -43,16 +43,12 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=plastic" />
 </p>
 
 <p align="center">
   <!-- Frameworks y librerías -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=plastic" />
 </p>
 
 <p align="center">
@@ -65,21 +61,12 @@
 
 <p align="center">
   <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic" />
 </p>
-
----
-
-## 🧪 Retos y práctica
-- 🔢 Mini-apps de **lógica y números** (inspiradas en numerología).
-- 🧩 Katas de **algoritmos** y **estructuras de datos**.
-- 🗄️ Diseños **SQL** con consultas JOIN, GROUP BY, subconsultas y **MongoDB** con agregaciones.
 
 ---
 
